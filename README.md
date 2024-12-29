@@ -1,4 +1,4 @@
-Overview
+
 Welcome to the Web3 Gaming Platform, where gaming meets the blockchain! Earn rewards, build your reputation, and enjoy a seamless gaming experience in a decentralized ecosystem.
 
 Key Features
